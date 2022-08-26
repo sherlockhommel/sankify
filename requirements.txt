@@ -1,0 +1,5 @@
+loguru
+pandas
+streamlit
+plotly
+more-itertools
